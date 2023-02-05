@@ -266,7 +266,7 @@
 
 
 <!--- Spotify --->
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=8pf0s9egh843gdd1xs7jmvx95&cover_image=true&theme=novatorem&show_offline=false&background_color=0d0d0d&bar_color=4eb16f&bar_color_cover=false" /></div>  
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=8pf0s9egh843gdd1xs7jmvx95&cover_image=true&theme=novatorem&show_offline=false&background_color=141321&bar_color=4eb16f&bar_color_cover=false" /></div>  
 
 <br/>  
 
