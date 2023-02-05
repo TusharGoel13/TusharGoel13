@@ -240,7 +240,7 @@
 
 <table>
   <tr><th>Title</th><th>Link</th></tr>
-  <!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END --> 
+  <!-- BLOG-POST-LIST:START --><tr><td>1</td><td>Matrix Multiplication Using Numpy</td><td>💯</td><td>https://medium.com/@tushargoel4613/matrix-multiplication-using-numpy-15298f152f4d?source=rss-1de1d72756db------2</td></tr><tr><td>2</td><td>Getting Started With Postman API</td><td>🔥</td><td>https://medium.com/@tushargoel4613/getting-started-with-postman-api-eb5e835e37df?source=rss-1de1d72756db------2</td></tr><!-- BLOG-POST-LIST:END --> 
 </table>
  
 
