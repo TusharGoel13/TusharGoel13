@@ -259,7 +259,7 @@
 <!--- Joke --->
 </div>  
 <br/> 
-<div align="center"><img src="https://readme-jokes.vercel.app/api?hide_border=false&theme=radical" /></div>  
+<div align="center"><img src="https://readme-jokes.vercel.app/api?hideBorder=false&theme=radical" /></div>  
 <br/>
 
 
