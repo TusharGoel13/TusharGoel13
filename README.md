@@ -233,7 +233,7 @@
 <br/> 
 <div align="left"><img src="https://github-readme-stats.vercel.app/api?username=TusharGoel13&show_icons=true&count_private=true&hide_border=false&theme=radical" align="center" /></div>  
 <br/> 
-<div align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TusharGoel13&hide_border=true&layout=compact&theme=radical" align="center" /></div>  
+<div align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TusharGoel13&hide_border=false&layout=compact&theme=radical" align="center" /></div>  
 <br/>  
 
 <!--- Github Trophies --->
@@ -256,6 +256,14 @@
  
 
 <br/>  
+<!--- Joke --->
+</div>  
+<br/> 
+<div align="center"><img src="https://readme-jokes.vercel.app/api&hide_border=false&theme=radical" alt="Jokes Card" /></div>  
+<br/>
+
+
+
 
 <!--- Spotify --->
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=8pf0s9egh843gdd1xs7jmvx95&cover_image=true&theme=default&show_offline=false&background_color=171717&bar_color=4eb16f&bar_color_cover=false" /></div>  
