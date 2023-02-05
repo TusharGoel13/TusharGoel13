@@ -1,4 +1,4 @@
-name: Latest stack oveflow activity
+name: Latest blog activity
 on:
   workflow_dispatch:
   schedule:
@@ -7,7 +7,7 @@ permissions:
       contents: write
 jobs:
   update-readme-with-blog:
-    name: Update this repo's README with latest activity from StackOverflow
+    name: Update this repo's README with latest activity from Medium
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
