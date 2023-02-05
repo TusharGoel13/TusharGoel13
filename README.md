@@ -266,7 +266,7 @@
 
 
 <!--- Spotify --->
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=8pf0s9egh843gdd1xs7jmvx95&cover_image=true&theme=Novatorem&show_offline=false&background_color=171717&bar_color=4eb16f&bar_color_cover=false" /></div>  
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=8pf0s9egh843gdd1xs7jmvx95&cover_image=true&theme=novatorem&show_offline=false&background_color=171717&bar_color=4eb16f&bar_color_cover=false" /></div>  
 
 <br/>  
 
@@ -275,6 +275,7 @@
 <img src="https://komarev.com/ghpvc/?username=TusharGoel13&&style=flat-square" align="center" />
 </div>  
   
+
 
 <br/>  
 
