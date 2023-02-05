@@ -17,5 +17,5 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://medium.com/feed/@tushargoel4613"
-          template: "<tr><td>$title</td><td>$url</td><td>$description</td><td>$randomEmoji(💯,🔥,💫,🚀,🌮)</td><td>$counter</td></tr>"
+          template: "<tr><td>$counter</td><td>$title</td><td>$randomEmoji(💯,🔥,💫,🚀,🌮)</td><td>$url</td></tr>"
           
