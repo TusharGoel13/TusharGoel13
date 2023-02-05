@@ -1,23 +1,21 @@
-name: Latest blog activity
+name: Latest blog post workflow
 on:
-  workflow_dispatch:
-  schedule:
-    - cron:  '0 * * * *'
+  schedule: # Run workflow automatically
+    - cron: '0 * * * *' # Runs every hour, on the hour
+  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
 permissions:
-      contents: write
+  contents: write # To write the generated contents to the readme
+
 jobs:
   update-readme-with-blog:
-    name: Update this repo's README with latest activity from Medium
+    name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - uses: gautamkrishnar/blog-post-workflow@v1
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Pull in dev.to posts
+        uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          comment_tag_name: "MEDIUM"
           feed_list: "https://medium.com/feed/@tushargoel4613"
           template: "<tr><td>$title</td><td>$url</td><td>$description</td><td>$randomEmoji(💯,🔥,💫,🚀,🌮)</td><td>$counter</td></tr>"
-          
-          
-          
-          
           
