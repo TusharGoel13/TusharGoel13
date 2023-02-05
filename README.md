@@ -23,7 +23,7 @@
 
 - **⚡ Fun fact: I prefer curly brackets in \n**  
   
-
+<!--- Tech Stacck --->
 <br/>  
 
 <summary><h2 dir="auto"><a id="user-content-️-technologies-i-use" class="anchor" aria-hidden="true" href="#️-technologies-i-use"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="gear" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2699.png">⚙️</g-emoji> Technology Stack</h2></summary>
@@ -202,6 +202,8 @@
 
 --->
 
+<!--- Connect with me --->
+
 <summary><h2 dir="auto"><a id="user-content--contact-me" class="anchor" aria-hidden="true" href="#-contact-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="ghost" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f47b.png">👻</g-emoji>Connect With Me</h2></summary>
 <br/> 
 <div align="center">
@@ -225,15 +227,21 @@
 
 <br/>  
 
+<!--- Github Stats --->
 
 <summary><h2 dir="auto"><a id="user-content--contact-me" class="anchor" aria-hidden="true" href="#-contact-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="ghost" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f47b.png">📊</g-emoji> Github Stats</h2></summary>
 <br/> 
 <div align="left"><img src="https://github-readme-stats.vercel.app/api?username=TusharGoel13&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 <br/> 
 <div align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TusharGoel13&hide_border=true&layout=compact" align="center" /></div>  
-
 <br/>  
 
+<!--- Github Trophies --->
+<summary><h2 dir="auto"><a id="user-content--contact-me" class="anchor" aria-hidden="true" href="#-contact-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="ghost" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f47b.png">🏆</g-emoji> Github Trophies</h2></summary>
+[![trophy](https://github-profile-trophy.vercel.app/?username=TusharGoel13&theme=monokai)](https://github.com/TusharGoel13/github-profile-trophy)
+
+
+<!--- Recent Blog Posts --->
 
 <summary><h2 dir="auto"><a id="user-content--contact-me" class="anchor" aria-hidden="true" href="#-contact-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="ghost" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f47b.png">📖</g-emoji>Recent Blog Posts</h2></summary>
 <br/> 
@@ -246,10 +254,12 @@
 
 <br/>  
 
+<!--- Spotify --->
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=8pf0s9egh843gdd1xs7jmvx95&cover_image=true&theme=default&show_offline=false&background_color=171717&bar_color=4eb16f&bar_color_cover=false" /></div>  
 
 <br/>  
 
+<!--- Profile Views --->
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=TusharGoel13&&style=flat-square" align="center" />
 </div>  
