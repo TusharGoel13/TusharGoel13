@@ -1,0 +1,23 @@
+name: Latest stack oveflow activity
+on:
+  workflow_dispatch:
+  schedule:
+    - cron:  '0 * * * *'
+permissions:
+      contents: write
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest activity from StackOverflow
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          comment_tag_name: "MEDIUM"
+          feed_list: "https://medium.com/feed/@tushargoel4613"
+          template: "<tr><td>$title</td><td>$url</td><td>$description</td><td>$randomEmoji(💯,🔥,💫,🚀,🌮)</td><td>$counter</td></tr>"
+          
+          
+          
+          
+          
