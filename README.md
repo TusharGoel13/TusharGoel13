@@ -20,7 +20,7 @@
 - **❓ Ask me anything related to ML stack and related technologies**  
   
 
-- **⚡ Fun fact: I prefer curly brackets in \n**  
+- **⚡ Fun fact: I don't prefer curly brackets in \n**  
   
 <!--- Tech Stacck --->
 <br/>  
