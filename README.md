@@ -3,8 +3,8 @@
 </div>  
   
 
-## I am Tushar Goel, a backend and machine learning engineer from New Delhi ,India. 
-## I aim to develop products and explore technology driven by data, innovation and differentiation.
+##<div align="center"> I am Tushar Goel, a backend and machine learning engineer from New Delhi ,India.
+  I aim to develop products and explore technology driven by data, innovation and differentiation.</div>
 
 - **🌍  I am  based in New Delhi, India**  
   
