@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" align="center" style="width: 100%" />
 </div>  
   
 
@@ -11,7 +11,7 @@
 - **🚀 I am currently working on  end to end machine learning projects**  
   
 
-- **🌱 I’m currently learning Flask and Docker**  
+- **🌱 I’m currently learning and experimenting LLMs**  
   
 
 - **🤝  I'm open to collaborating on Data Science Projects**  
