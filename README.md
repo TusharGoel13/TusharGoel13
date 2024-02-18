@@ -21,7 +21,8 @@
   
 
 - **⚡ Fun fact: I don't prefer curly brackets in \n**  
-  
+
+<!--- Link for tech stack icons : https://devicon.dev/ --->
 <!--- Tech Stacck --->
 <br/>  
 
@@ -36,88 +37,86 @@
     </h2>
 </summary>
 <br/>  
-<div style="overflow-x: auto; text-align: center;">
-  <table style="margin: 0 auto; max-width: 100%;">
-      <tbody><tr>
-          <td> <b>Languages</b> </td>
-          <td align="left">
-              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" style="width: 7%;">
-              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" style="width: 7%;">
-              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" style="width: 7%;">
-              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML" style="width: 7%;">
-              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS" style="width: 7%;">
-              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="Bash" style="width: 7%;">
-          </td>
-      </tr>
-      <tr>
-          <td> <b>Web Frameworks</b> </td>
-          <td align="left">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" alt="Flask" style="width: 7%;">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="FastAPI" style="width: 7%;">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" alt="Django" style="width: 7%;">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" alt="Streamlit" style="width: 7%;">
-          </td>
-      </tr>
-      <tr>
-          <td> <b>SQL Databases</b> </td>
-          <td align="left">
-              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" style="width: 7%;">
-              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" alt="SQLite" style="width: 7%;">
-              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" style="width: 7%;">
-          </td>
-      </tr>
-      <tr>
-          <td> <b>NoSQL Databases</b> </td>
-          <td align="left">
-              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB" style="width: 7%;">
-              <!--- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" alt="Redis" style="width: 5%;"> --->
-          </td>
-      </tr>
-      <tr>
-          <td> <b>Data Engineering</b> </td>
-          <td align="left">
-              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="Pandas" style="width: 7%;">
-              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="NumPy" style="width: 7%;">
-              <img src="https://github.com/scipy/scipy/blob/main/doc/source/_static/logo.svg" alt="SciPy" style="width: 7%;">
-          </td>
-      </tr>
-      <tr>
-          <td> <b>Data Visualization</b> </td>
-          <td align="left">
-              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" style="width: 7%;">
-              <img src="https://github.com/mwaskom/seaborn/blob/master/doc/_static/logo-mark-darkbg.svg" alt="Seaborn" style="width: 7%;">
-              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" alt="Plotly" style="width: 7%;">
-          </td>
-      </tr>
-      <tr>
-          <td> <b>Machine Learning</b> </td>
-          <td align="left">
-              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" alt="Tensorflow" style="width: 7%;">
-              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" alt="Keras" style="width: 7%;">
-              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-Learn" style="width: 7%;">
-              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" alt="PyTorch" style="width: 7%;">
-          </td>
-      </tr>
-      <tr>
-          <td> <b>Cloud Platforms</b> </td>
-          <td align="left">
-              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" style="width: 7%;">
-              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" alt="GCP" style="width: 7%;">
-              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/heroku/heroku-original.svg" alt="Heroku" style="width: 7%;">
-              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" alt="Vercel" style="width: 7%;">
-          </td>
-      </tr>
-      <tr>
-          <td> <b>Developer Tools</b> </td>
-          <td align="left">
-              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" style="width: 7%;">
-              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="Postman" style="width: 7%;">
-              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" style="width: 7%;">
-              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" alt="Github Actions" style="width: 7%;">
-          </td>
-      </tr>
-  </tbody></table>
-</div>
+<table style="margin: 0 auto; max-width: 100%;">
+    <tbody><tr>
+        <td style="white-space: nowrap;"> <b>Languages</b> </td>
+        <td align="left">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" style="width: 7%;">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" style="width: 7%;">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" style="width: 7%;">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML" style="width: 7%;">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS" style="width: 7%;">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="Bash" style="width: 7%;">
+        </td>
+    </tr>
+    <tr>
+        <td style="white-space: nowrap;"> <b>Web Frameworks</b> </td>
+        <td align="left">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" alt="Flask" style="width: 7%;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="FastAPI" style="width: 7%;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" alt="Django" style="width: 7%;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" alt="Streamlit" style="width: 7%;">
+        </td>
+    </tr>
+    <tr>
+        <td style="white-space: nowrap;"> <b>SQL Databases</b> </td>
+        <td align="left">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" style="width: 7%;">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" alt="SQLite" style="width: 7%;">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" style="width: 7%;">
+        </td>
+    </tr>
+    <tr>
+        <td style="white-space: nowrap;"> <b>NoSQL Databases</b> </td>
+        <td align="left">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB" style="width: 7%;">
+            <!--- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" alt="Redis" style="width: 5%;"> --->
+        </td>
+    </tr>
+    <tr>
+        <td style="white-space: nowrap;"> <b>Data Engineering</b> </td>
+        <td align="left">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="Pandas" style="width: 7%;">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="NumPy" style="width: 7%;">
+            <img src="https://github.com/scipy/scipy/blob/main/doc/source/_static/logo.svg" alt="SciPy" style="width: 7%;">
+        </td>
+    </tr>
+    <tr>
+        <td style="white-space: nowrap;"> <b>Data Visualization</b> </td>
+        <td align="left">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" style="width: 7%;">
+            <img src="https://github.com/mwaskom/seaborn/blob/master/doc/_static/logo-mark-darkbg.svg" alt="Seaborn" style="width: 7%;">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" alt="Plotly" style="width: 7%;">
+        </td>
+    </tr>
+    <tr>
+        <td style="white-space: nowrap;"> <b>Machine Learning</b> </td>
+        <td align="left">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" alt="Tensorflow" style="width: 7%;">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" alt="Keras" style="width: 7%;">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-Learn" style="width: 7%;">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" alt="PyTorch" style="width: 7%;">
+        </td>
+    </tr>
+    <tr>
+        <td style="white-space: nowrap;"> <b>Cloud Platforms</b> </td>
+        <td align="left">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" style="width: 7%;">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" alt="GCP" style="width: 7%;">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/heroku/heroku-original.svg" alt="Heroku" style="width: 7%;">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" alt="Vercel" style="width: 7%;">
+        </td>
+    </tr>
+    <tr>
+        <td style="white-space: nowrap;"> <b>Developer Tools</b> </td>
+        <td align="left">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" style="width: 7%;">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="Postman" style="width: 7%;">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" style="width: 7%;">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" alt="Github Actions" style="width: 7%;">
+        </td>
+    </tr>
+</tbody></table>
 
 
 <!---
@@ -220,6 +219,17 @@
 <br/>  
 
 --->
+<!--- Link to create badge icons : https://shields.io/ --->
+<!--- Environment --->
+
+<summary><h2 dir="auto"><a id="user-content--environment" class="anchor" aria-hidden="true" href="#-contact-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="house" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f47b.png">🏡</g-emoji>Environment</h2></summary>
+<br/> 
+<div align="center">
+    <img src="https://img.shields.io/badge/jupyter-orange.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Icon" style="margin-bottom: 5px;" />
+    <img src="https://img.shields.io/badge/anaconda-green.svg?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda Icon" style="margin-bottom: 5px;" />
+    <img src="https://img.shields.io/badge/vscode-blue.svg?&style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VSCode Icon" style="margin-bottom: 5px;" />
+</div> 
+
 
 <!--- Connect with me --->
 
@@ -238,7 +248,7 @@
 
 <!--- Github Stats --->
 
-<summary><h2 dir="auto"><a id="user-content--github-stats" class="anchor" aria-hidden="true" href="#-contact-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="ghost" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f47b.png">📊</g-emoji> Github Stats</h2></summary>
+<summary><h2 dir="auto"><a id="user-content--github-stats" class="anchor" aria-hidden="true" href="#-contact-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="stats" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f47b.png">📊</g-emoji> Github Stats</h2></summary>
 <br/> 
 <div align="left"><img src="https://github-readme-stats.vercel.app/api?username=TusharGoel13&show_icons=true&count_private=true&hide_border=false&theme=radical" align="center" /></div>  
 <br/> 
@@ -246,7 +256,7 @@
 <br/>  
 
 <!--- Github Trophies --->
-<summary><h2 dir="auto"><a id="user-content--github-trophies" class="anchor" aria-hidden="true" href="#-contact-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="ghost" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f47b.png">🏆</g-emoji> Github Trophies</h2></summary>
+<summary><h2 dir="auto"><a id="user-content--github-trophies" class="anchor" aria-hidden="true" href="#-contact-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f47b.png">🏆</g-emoji> Github Trophies</h2></summary>
 </div>  
 <br/> 
 <div align="left"><img src="https://github-profile-trophy.vercel.app/?username=TusharGoel13&theme=monokai&row=2&column=3&margin-w=15&margin-h=15" align="center" /></div>  
@@ -255,7 +265,7 @@
 
 <!--- Recent Blog Posts --->
 
-<summary><h2 dir="auto"><a id="user-content--blog-post" class="anchor" aria-hidden="true" href="#-contact-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="ghost" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f47b.png">📖</g-emoji>Recent Blog Posts</h2></summary>
+<summary><h2 dir="auto"><a id="user-content--blog-post" class="anchor" aria-hidden="true" href="#-contact-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="book" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f47b.png">📖</g-emoji>Recent Blog Posts</h2></summary>
 <br/> 
 
 <table>
